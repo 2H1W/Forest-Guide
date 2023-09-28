@@ -6,7 +6,7 @@
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3Ht6EaAUQESxT5_DMIFE05Le2g4DYXVaUwAXrpedX1Wg8cj_4NsDyCW3lKwobxD_YGQ&usqp=CAU)
 
-- 受影響
+- #啟發
 	- 日本文化
 		- 唯靈論
 		- 日本戰後建築思想
