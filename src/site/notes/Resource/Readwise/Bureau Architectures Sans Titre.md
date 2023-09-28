@@ -9,7 +9,7 @@
 - 什麼是“le bon sens paysan”，它與[[Area/Creator/BAST\|BAST]]的工作有什麼關係？
 	- 在法國，“le bon sens paysan”（農民的常識）是一個相當常見的表達方式。 這是我們工作方式中經常出現的東西。” 對於BAST來說，這是關於使用常識而不是理論思維，他們傾向於選擇簡單性並提出問題來切中要害。
 - [[Area/Creator/BAST\|BAST]]的方法與美國建築學教學法有什麼區別？
-	- 根據BAST的說法，許多大學教學法和美國建築文化專注於製作形狀，無論其製造過程如何，而BAST採取了現代方法，並詢問我們是否應該繼續只建造新的結構，消耗原始土地，拆除和重建。
+	- 根據BAST的說法，許多大學教學法和美國建築文化專注於製作形狀，無論其製造過程如何，而BAST採取了現代方法，並詢問我們是否應該繼續只建造新的結構，消耗原始土地，[[Area/Glossary/拆除\|拆除]]和重建。
 
 ## Highlights
 Our approach is based on the notion of anonymity. Today, [[Area/Creator/BAST\|BAST]] has three architects but it is an evolving structure. There were two architects, then three, then five and now three again. In fact, our anonymous approach allows us to have different people working on projects without the project becoming claimed by any one person.  #主張 
